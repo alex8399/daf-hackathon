@@ -8,6 +8,12 @@ The Route Planner was developed as part of the **DAF Hackathon** which took plac
 
 ![Example](/presentation/example1.jpg)
 
+## Team
+* [Danila Solodennikov](https://github.com/Master-sniffer)
+* [Aleksandr Vardanian](https://github.com/alex8399)
+* [Aleksandr Nikolaev](https://github.com/Allex-Nik)
+* [Aleksandr Raudvee](https://github.com/AlexRaudvee)
+
 ## Files
 
 - `API_` - folder with code which extracts the data through api
@@ -16,12 +22,6 @@ The Route Planner was developed as part of the **DAF Hackathon** which took plac
 - `presentation` - folder that contains the presentation material for the route planner
 - `config.py` - configuration file
 - `requirements.txt` - file which stores all used libraries
-
-## Team
-* [Danila Solodennikov](https://github.com/Master-sniffer)
-* [Aleksandr Vardanian](https://github.com/alex8399)
-* [Aleksandr Nikolaev](https://github.com/Allex-Nik)
-* [Aleksandr Raudvee](https://github.com/AlexRaudvee)
 
 ## How to Run
 
