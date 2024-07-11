@@ -23,7 +23,7 @@ The Route Planner was developed as part of the **DAF Hackathon** which took plac
 - `config.py` - configuration file
 - `requirements.txt` - file which stores all used libraries
 
-## How to Run
+## How to run
 
 ### Prerequisites
 
